@@ -15,7 +15,7 @@ GhostProxy is a Proxy Grabber & Checker. It Suports The Following:
 - Extract GhostProxy
 - Ready to use
 
-## Find a bug?
+## Found a bug?
 
 If you found an issue or bug. You can message me on Discord @thread1ng
 
